@@ -9,7 +9,9 @@ To run the code, please see: "demo_SparseHSIC_Lasso.mat"
 
 Usage:
 Data --> Samples in the form NxP, where N is the no. of observations, and P is the no. of features (variables)
+
 label --> class label in the form Nx1
+
 lambda --> sparse (Lasso) coefficient
 
 
